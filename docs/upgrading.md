@@ -1,4 +1,5 @@
 # Upgrading
+**Warning**: When performing database migrations, you may lose data if the migration is not done properly.
 
 1. Pull the current version:
    ```
