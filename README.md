@@ -1,17 +1,40 @@
-# Website
+<!-- PROJECT LOGO -->
+<div align="right">
+  <a href="https://github.com/calendso/calendso">
+    <img src="https://calendso.com/calendso-logo.svg" alt="Logo" width="160" height="65">
+  </a><br/>
+  <a href="https://calendso.com">Website</a>
+  ·
+  <a href="https://github.com/calendso/docs/issues">Community Support</a>
+</div>
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# Product Documentation
+
+The official product documentation, containing information and guides about using the product as well as support for self-hosted installations. This documentation site runs on [Docusaurus](https://docusaurus.io), so you may refer to their documentation should you need information on anything that isn't covered here.
+
+## Prerequisites
+- Git
+- Node.js & npm
+- Yarn
 
 ## Installation
+Firstly, clone the repository using Git:
+```console
+git clone https://github.com/calendso/docs.git
+```
 
+Now, you can install the dependencies with yarn:
 ```console
 yarn install
 ```
 
+## Editing
+To create, edit and delete documentation pages, you can simply create markdown (.md) files in the `docs/` folder. You can edit Markdown with any text editor, but VS Code and WebStorm have side-by-side previews so you can see your formatted content whilst writing markdown.
+
 ## Local Development
 
 ```console
-yarn start
+docusaurus start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
