@@ -45,3 +45,7 @@ html[data-theme='light'] .footer {
 .col {
   margin-bottom: 20px;
 }
+
+.navbar__brand{
+  height: 1.2rem;
+}
