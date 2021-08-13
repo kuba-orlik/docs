@@ -6,7 +6,25 @@ sidebar_position: 3
 
 The Zoom integration automatically creates Zoom meetings for your bookings.
 
-## Obtaining Zoom Client ID and Secret
+## Connecting your Zoom account
+1. Go to the App Store page, and click the 'Add new integration' button.
+2. Next to Zoom, go ahead and click the Add button.
+3. You will now be taken to Zoom to sign into your account and authorise Calendso.
+
+## Disconnecting your Zoom account
+1. Go to the App Store page, and click on your Zoom integration in the list.
+2. On the right hand side, click the Delete App button.
+
+This will remove the integration from Calendso. Calendso will not perform any actions on your account once the integration is removed. However, if you want to revoke Calendso's permissions from your Zoom account, perform the following steps:
+1. Log into your Zoom account and navigate to the App Marketplace
+2. Click Manage > Installed Apps or search for the Calendso app
+3. Click on the Calendso app
+4. Click Uninstall
+
+## How we interact with your Zoom account
+We only need the ability to create meetings, so when somebody books an event with you, Calendso can communicate with Zoom and create the corresponding meeting.
+
+## Setting up Zoom on your self-hosted instance
 1. Open [Zoom Marketplace](https://marketplace.zoom.us/) and sign in with your Zoom account.
 2. On the upper right, click "Develop" => "Build App".
 3. On "OAuth", select "Create".
