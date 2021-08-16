@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 
 const CategoryList = [
   {
-    link: '/docs/installation',
+    link: '/docs/self-hosting/installation',
     title: 'Installing Calendso',
     Svg: require('../../static/img/categories/text.svg').default,
     description: (
@@ -15,7 +15,7 @@ const CategoryList = [
     ),
   },
   {
-    link: '/docs/upgrading',
+    link: '/docs/self-hosting/upgrading',
     title: 'Upgrading Calendso',
     Svg: require('../../static/img/categories/download.svg').default,
     description: (
@@ -25,7 +25,7 @@ const CategoryList = [
     ),
   },
   {
-    link: '/docs/docker',
+    link: '/docs/self-hosting/docker',
     title: 'Deploying with Docker',
     Svg: require('../../static/img/categories/docker.svg').default,
     description: (

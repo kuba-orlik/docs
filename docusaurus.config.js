@@ -22,7 +22,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'installation',
+          docId: 'event-types',
           position: 'left',
           label: 'Documentation',
         },
