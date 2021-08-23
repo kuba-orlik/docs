@@ -1,4 +1,6 @@
-# Setting up or making changes to your Profile
+# Your Profile
+
+## Setting up or making changes to your Profile
 
 1.  Go to your [Profile Settings](https://app.calendso.com/settings/profile).
 2. From this page you are able to edit the following:
