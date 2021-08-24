@@ -5,6 +5,17 @@ sidebar_position: 1
 # Google Calendar
 The Google Calendar integration checks for availability in your Google Calendars and creates bookings for you.
 
+## Removing Permissions for Calendso to access your Google Account
+
+1. Go to your [Google Account](https://myaccount.google.com/).
+2. On the left, click Data & privacy.
+3. Scroll to "Data from apps and services you use."
+4. Under "Download or delete your data," click Delete a Google service. You may need to sign in again.
+5. Next to the product you want to remove, click Delete.
+6. Follow the steps on the screen.
+
+To remove a product from your account that isn't listed in your Google Account, visit [Google Support](https://support.google.com) for more info on a specific product.
+
 ## Obtaining the Google API Credentials
 1. Open [Google API Console](https://console.cloud.google.com/apis/dashboard). If you don't have a project in your Google Cloud subscription, you'll need to create one before proceeding further. Under Dashboard pane, select Enable APIS and Services.
 2. In the search box, type calendar and select the Google Calendar API search result.
