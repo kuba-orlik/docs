@@ -54,3 +54,31 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## Contributing To The Documentation Site
+
+***Note: A YouTube Steb by Step Guide will be released soon!***
+
+## Exisitng Page
+
+1. From the Docs GitHub Respitory, head to the folder called 'Docs' and open it.
+2. From here you can view all current pages on the Documentation Site. Select the page you would like to contribute to.
+3. You should now be able to view the page you have seleceted. Located at the top right of the page will be a pencil icon (referencing edit). Pressing this will bring you up a box to edit and make changes.
+4. From here make the changes you wish to make.
+5. At the bottom of the screen will be a 'Propose Changes' box, fill in all the relevant details such as title and description then press the green 'Propose Changes' button.
+6. Your changes have been saved, to submit them for review, located on your screen, press the greem 'Create Pull Request' button.
+7. Fill in all the relevant details such as title and description and after finalize the submission.
+
+You have now successfully edited and submitted changes to our documentation site.
+
+## Creating a New Page
+
+1. From the Docs GitHub Respitory, head to the folder called 'Docs' and open it.
+2. From here you can view all current pages on the Documentation Site. At the top of your screen press the 'New file' button.
+3. You should now be able to view the page you have created. Remember when renaming the document to put .md at the end of the file name.
+4. From here make the changes you wish to make. Such as creating a title, sub-title and description.
+5. At the bottom of the screen will be a 'Propose Changes' box, fill in all the relevant details such as title and description then press the green 'Propose Changes' button.
+6. Your changes have been saved, to submit them for review, located on your screen, press the greem 'Create Pull Request' button.
+7. Fill in all the relevant details such as title and description and after finalize the submission.
+
+You have now successfully created and submitted changes to our documentation site.
