@@ -24,9 +24,11 @@ module.exports = {
           type: 'doc',
           docId: 'event-types',
           position: 'left',
-          label: 'Documentation',
+          label: 'Product Documentation',
         },
-        {href: 'https://api.docs.calendso.com', label: 'API', position: 'left'},
+        {href: 'https://developer.calendso.com', label: 'Developer Documentation', position: 'left'},
+        {href: 'https://design.calendso.com', label: 'Design Documentation', position: 'left'},
+        {href: 'https://api.docs.calendso.com', label: 'API Documentation', position: 'left'},
         {
           href: 'https://github.com/calendso/calendso',
           label: 'GitHub',
